@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**shinjondas/shinjondas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinjondas/shinjondas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail me at shinjon12@gmail.com
 - 😄 Pronouns: Human, Male, Engineer
 - ⚡ Fun fact: Earth is round-suck it flat-earthers!
--->
+
