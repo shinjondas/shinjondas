@@ -10,3 +10,4 @@ Still processing life after full 20 years of experience in it.
 ![Shinjon's github stats](https://github-readme-stats.vercel.app/api?username=shinjondas)
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjondas)](https://github.com/anuraghazra/github-readme-stats)
